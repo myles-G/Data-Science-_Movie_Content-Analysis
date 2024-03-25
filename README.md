@@ -2,8 +2,8 @@
 Data Science OO1 project on exploring Data Sets  -  project Link (https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4)
 
 
+![microsoft_movie_Analysis](images/OIP - Cover.jpg)
 
- ![microsoft_movie_Analysis](images/OIP - Cover.jpg)
 
 
 # Overview
@@ -63,19 +63,19 @@ The correlation coefficient of 0.69 indicates a moderately strong positive linea
 It is evident that a highly significant positive correlation exists between the domestic gross and worldwide gross, with a correlation coefficient of 0.94. This finding suggests a robust relationship wherein an increase in the production budget is strongly associated with a subsequent rise in domestic gross revenue. This correlation coefficient indicates a near-perfect positive linear relationship between the two variables, indicating that as the production budget increases, the domestic gross tends to increase in tandem. Such insights gleaned from the analysis provide valuable guidance for decision-making processes within the film industry, allowing stakeholders to make informed investment decisions and optimize revenue generation strategies.
 
 
- ![microsoft_movie_Analysis](images/Movie rating distribution.png)
+![microsoft_movie_Analysis](images/Movie rating distribution.png)
 
 
 From the histogram above,we can conclude that most movies are rated at 6.5.This also shows that 6.5 is the mean average rating for best performing movie rating scale
 
 
- ![microsoft_movie_Analysis](images/Movie runtime distribution.png)
+![microsoft_movie_Analysis](images/Movie runtime distribution.png)
 
 
 From the histogram above,we can conclude that most movies are 100 minutes long. This is the time frame for best standard performing movies
 
 
- ![microsoft_movie_Analysis](images/Top 5 & Bottom 5 genres.png)
+![microsoft_movie_Analysis](images/Top 5 & Bottom 5 genres.png)
 
 
 From the bar chart depicting genre popularity, it can be concluded that the top five most popular genres are documentary, drama, comedy, horror, and comedy/drama, with documentary being the most popular among them. This finding aligns with the observation made during data exploration that the highest-rated movie is also a documentary.
