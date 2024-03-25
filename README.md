@@ -3,8 +3,7 @@ Data Science OO1 project on exploring Data Sets  -  project Link (https://github
 
 
 
-![microsoft_movie_Analysis](./images/Movie rating distribution.png)
-
+![microsoft_movie_Analysis](images/OIP - Cover.jpg)
 
 
 # Overview
